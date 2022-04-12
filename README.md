@@ -1,0 +1,4 @@
+- 👾 Hi, I’m Glenn
+- 🎓💼 I’m interested in improving my skills and finding my first job
+- 💻 I’m currently learning JS, Python, SQL, Java
+- 🐹 How to reach me vlasenkogalia.personal@gmail.com
