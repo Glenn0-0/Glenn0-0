@@ -1,4 +1,4 @@
-- 👾 Hi, I’m Glenn
-- 🎓💼 I’m interested in improving my skills and finding my first job
-- 💻 I’m currently learning JS, Python, SQL, Java and HTML/CSS
+- 👾 Hi, I’m Glenn.
+- 🎓💼 I’m interested in improving my skills and finding my first job.
+- 💻 I’m currently learning JS, Python, GoLang, C++ and HTML/CSS.
 - 🐹 How to reach me vlasenkogalia.personal@gmail.com
