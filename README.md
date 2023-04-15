@@ -1,4 +1,3 @@
 - 👾 Hi, I’m Glenn.
 - 🎓💼 I’m interested in improving my skills and finding my first job.
-- 💻 I’m currently learning GoLang, Python and HTML/CSS.
-- 🐹 How to reach me vlasenkogalia.personal@gmail.com
+- 💻 I’m currently learning GoLang and Python.
